@@ -1,2 +1,2 @@
-# vertolet4ica.github.io
+# Star Traveler
 мой первый сайт
